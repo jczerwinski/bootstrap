@@ -77,5 +77,6 @@
         "deps": "jquery",
         "exports": "$"
       }
+    }
   }
 }
